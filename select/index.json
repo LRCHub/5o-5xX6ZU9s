@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "それは僕たちの奇跡",
+  "base_artist": "μ's",
+  "createdAt": "2025-12-14T06:20:44.367576Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/01_それは僕たちの奇跡_μ's.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 feat.Prim",
+      "artist": "Ryu☆",
+      "has_synced": false,
+      "path": "select/02_それは僕たちの奇跡_feat.Prim_Ryu☆.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "μ's",
+      "has_synced": true,
+      "path": "select/03_それは僕たちの奇跡_μ's.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "μ’s",
+      "has_synced": true,
+      "path": "select/04_それは僕たちの奇跡_μ’s.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "Pile",
+      "has_synced": true,
+      "path": "select/05_それは僕たちの奇跡_Pile.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "久保ユリカ",
+      "has_synced": false,
+      "path": "select/06_それは僕たちの奇跡_久保ユリカ.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "三森すずこ",
+      "has_synced": true,
+      "path": "select/07_それは僕たちの奇跡_三森すずこ.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "新田恵海",
+      "has_synced": true,
+      "path": "select/08_それは僕たちの奇跡_新田恵海.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "徳井青空",
+      "has_synced": false,
+      "path": "select/09_それは僕たちの奇跡_徳井青空.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "内田彩",
+      "has_synced": true,
+      "path": "select/10_それは僕たちの奇跡_内田彩.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "南條愛乃",
+      "has_synced": false,
+      "path": "select/11_それは僕たちの奇跡_南條愛乃.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "楠田亜衣奈",
+      "has_synced": false,
+      "path": "select/12_それは僕たちの奇跡_楠田亜衣奈.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡",
+      "artist": "飯田里穂",
+      "has_synced": true,
+      "path": "select/13_それは僕たちの奇跡_飯田里穂.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (ELI Mix)",
+      "artist": "絢瀬絵里(CV.南條愛乃)",
+      "has_synced": false,
+      "path": "select/14_それは僕たちの奇跡_(ELI_Mix)_絢瀬絵里(CV.南條愛乃).txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (HANAYO Mix)",
+      "artist": "小泉花陽(CV.久保ユリカ)",
+      "has_synced": false,
+      "path": "select/15_それは僕たちの奇跡_(HANAYO_Mix)_小泉花陽(CV.久保ユリカ).txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (HONOKA Mix)",
+      "artist": "高坂穂乃果(CV.新田恵海)",
+      "has_synced": true,
+      "path": "select/16_それは僕たちの奇跡_(HONOKA_Mix)_高坂穂乃果(CV.新田恵海).lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (MAKI Mix)",
+      "artist": "西木野真姫(CV.Pile)",
+      "has_synced": false,
+      "path": "select/17_それは僕たちの奇跡_(MAKI_Mix)_西木野真姫(CV.Pile).txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (NICO Mix)",
+      "artist": "矢澤にこ(CV.徳井青空)",
+      "has_synced": false,
+      "path": "select/18_それは僕たちの奇跡_(NICO_Mix)_矢澤にこ(CV.徳井青空).txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (NOZOMI Mix)",
+      "artist": "東條 希(CV.楠田亜衣奈)",
+      "has_synced": false,
+      "path": "select/19_それは僕たちの奇跡_(NOZOMI_Mix)_東條_希(CV.楠田亜衣奈).txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "それは僕たちの奇跡 (RIN Mix)",
+      "artist": "星空凛(CV.飯田里穂)",
+      "has_synced": true,
+      "path": "select/20_それは僕たちの奇跡_(RIN_Mix)_星空凛(CV.飯田里穂).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "それは僕たちの奇跡",
+      "artist": "μ's",
+      "has_synced": false,
+      "path": "select/pl_01_それは僕たちの奇跡_μ's.txt"
+    }
+  ]
+}
